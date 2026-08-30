@@ -11,7 +11,7 @@ It's the updated skin for foobar2000 on iPhone 13. I changed it to my liking, i 
 Download all the files and make a zip archive, then change the file extension to .fbskin and upload it to your device.
 
 ## Screenshot
-![](ss.jpeg)
+![](ss.jpeg){width=100 height=400}
 
 ## Reference
 - [Skinning](http://forum.foobar2000.com/forum/showthread.php?114-Skinning)
