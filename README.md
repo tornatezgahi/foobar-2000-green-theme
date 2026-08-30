@@ -1,5 +1,5 @@
-# foobar2000-mobile-skin-Simple-Dark
-foobar2000 mobile skin: Simple-Dark
+# foobar2000-green-theme
+foobar2000 mobile skin green theme.
 
 ## Screenshot
 ![](screenshot.jpg)
